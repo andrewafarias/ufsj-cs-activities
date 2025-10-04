@@ -1,0 +1,8 @@
+{
+   "files.associations": {
+      "*.pl": "prolog",
+      "deque": "cpp",
+      "string": "cpp",
+      "vector": "cpp"
+   }
+}
